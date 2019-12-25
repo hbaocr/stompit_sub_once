@@ -1,6 +1,6 @@
 //http://localhost:8161/admin
 
-const StmompitSubOnce = require('./StmompitSubOnce');
+const StmompitSubOnce = require('./StompitSubOnce');
 
 const connectOptions = {
   'host': 'localhost',
