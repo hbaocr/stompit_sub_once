@@ -3,7 +3,7 @@
 ```javascript
 //http://localhost:8161/admin
 
-const StmompitSubOnce = require('./StompitSubOnce');
+const StompitSubOnce = require('./StompitSubOnce');
 
 const connectOptions = {
   'host': 'localhost',
@@ -20,7 +20,7 @@ const connectOptions = {
 const chanel = '/queue/test1';
 
 async function main() {
-  const client = new StmompitSubOnce(connectOptions);
+  const client = new StompitSubOnce(connectOptions);
   //for (let i = 0; i < 1000; i++)
    {
     try {
