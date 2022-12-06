@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "stompit": "^0.26.0"
+    "stompit": "^1.0.0"
   }
 }
